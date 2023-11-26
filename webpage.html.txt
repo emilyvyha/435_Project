@@ -1,0 +1,15 @@
+object url:
+https://s3.us-east-2.amazonaws.com/cs412eha.xyz/index.html
+
+endpoint:
+http://cs412eha.xyz.s3-website.us-east-2.amazonaws.com
+
+ns-1478.awsdns-56.org
+ns-504.awsdns-63.com
+ns-805.awsdns-36.net
+ns-1724.awsdns-23.co.uk
+
+new certificate ID:
+9eadcf58-3940-45d2-9f24-568a3fb19cc8
+
+added alternate domain name to my distribution of without the www.
